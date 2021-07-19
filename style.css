@@ -85,7 +85,7 @@ button:hover{
     width: 500px;
     height: 350px;
     left: 680px;
-    top: 2950px;
+    top: 3020px;
 }
 .last-1{
     display: flex;
@@ -105,6 +105,7 @@ button:hover{
 }
 .last-2 h1{
     font-size: 50px;
+    margin-top: 100px;
 }
 .last-2 p{
     margin-top: -20px;
@@ -140,12 +141,13 @@ button:hover{
         align-items: center;
     }
     nav{
-        width: 400px;
+        width: 550px;
     }
     nav button{
         width: 150px;
     }
     .top-section{
+        width: 500px;
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -155,11 +157,11 @@ button:hover{
     .heading{
         width: 100px;
         font-size: 30px;
-        margin-left: -50px;
+        margin-left: 50px;
         margin-top: -50px;
     }
     .banner img{
-        width: 400px; 
+        width: 550px; 
         margin-left: 0;
         margin-top: 450px;
         background-image: linear-gradient(#4d3ce4,#4d26a7,#3436ca);
@@ -170,28 +172,28 @@ button:hover{
         margin-top: -150px;
     }
     .last-2 h1{
-        margin-top: 4500px;
+        margin-top: 4700px;
         width: 45px;
         text-align: center;
-        margin-left: -30px;
+        margin-left: 30px;
     }
     .last-2 p{
-        margin-left: -40px;
+        margin-left: 0px;
         width: 250px;
     }
     .last-3 img{
-        margin-top: 5050px;
+        margin-top: 5200px;
         width:320px ;
-        margin-left: -650px;
+        margin-left: -590px;
     }
     .logo img{
-        margin-top: 4950px;
-        margin-left: -450px;
+        margin-top: 5150px;
+        margin-left: -380px;
         width: 350px;
     } 
     .icon{
-        margin-top: 4950px;
-        margin-left: -550px;
+        margin-top: 5150px;
+        margin-left: -450px;
     }
 }
     
